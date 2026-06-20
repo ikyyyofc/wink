@@ -1,0 +1,6 @@
+{
+  "name": "Wink Extractor",
+  "description": "Extract videos from Wink cache to Downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
